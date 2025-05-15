@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Air-Pollution-Prediction
+Version: 0.0.1
+Author: Pratik Mohanty
+Author-email: pratikmohanty1504@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
