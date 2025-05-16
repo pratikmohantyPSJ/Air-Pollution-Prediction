@@ -6,3 +6,5 @@ Author-email: pratikmohanty1504@gmail.com
 Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: matplotlib
+Requires-Dist: scikit_learn
+Requires-Dist: seaborn
